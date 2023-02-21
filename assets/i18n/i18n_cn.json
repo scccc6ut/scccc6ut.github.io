@@ -40,10 +40,10 @@
 
   "portfolio__title": "项目集",
   "portfolio__subtitle": "近期项目",
-  "portfolio1__title": "网站1",
-  "portfolio1__description": "网站采用响应式布局，适配于多种设备，具有UI组件和动画交互。",
-  "portfolio2__title": "网站2",
-  "portfolio2__description": "网站采用响应式布局，适配于多种设备，具有UI组件和动画交互。",
+  "portfolio1__title": "金吉列大学长",
+  "portfolio1__description": "教育平台，拥有PC,WAP,APP三端,主要业务有出国留学、语言培训、院校直通车、海外移民四个业务频道。技术栈有vue全家桶,nuxt,sass,axios,vant,element ui,echarts",
+  "portfolio2__title": "必客",
+  "portfolio2__description": "BicCamera是日本综合购物商城，集团在东京新宿、银座、大阪、京都、北海道等地有200多家门店，经营家电、照相机、电脑、手机、音响设备等大型电器综合市场，主要负责官网的维护以及新功能开发，主要技术栈为JSP和java。",
   "portfolio3__title": "网站3",
   "portfolio3__description": "网站采用响应式布局，适配于多种设备，具有UI组件和动画交互。",
 
